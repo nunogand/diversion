@@ -1,0 +1,29 @@
+# Microsoft teams blocklist
+
+teams.events.data.microsoft.com
+mobile.pipe.aria.microsoft.com
+eu-mobile.events.data.microsoft.com
+eu-office.events.data.microsoft.com
+self.events.data.microsoft.com
+events.data.microsoft.com
+vortex.data.microsoft.com
+activity.windows.com
+presence.teams.live.com
+ic3.events.data.microsoft.com
+mobile.events.data.microsoft.com
+login.microsoftonline.com
+# Microsoft teams endpoints
+*.lync.com
+*.teams.cloud.microsoft
+*.teams.microsoft.com
+teams.cloud.microsoft
+teams.microsoft.com
+*.keydelivery.mediaservices.windows.net
+*.streaming.mediaservices.windows.net
+mlccdn.blob.core.windows.net
+*.users.storage.live.com
+adl.windows.com
+*.secure.skypeassets.com
+mlccdnprod.azureedge.net
+*.skype.com
+compass-ssl.microsoft.com
