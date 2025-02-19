@@ -13,17 +13,17 @@ ic3.events.data.microsoft.com
 mobile.events.data.microsoft.com
 login.microsoftonline.com
 # Microsoft teams endpoints
-*.lync.com
-*.teams.cloud.microsoft
-*.teams.microsoft.com
+lync.com
 teams.cloud.microsoft
 teams.microsoft.com
-*.keydelivery.mediaservices.windows.net
-*.streaming.mediaservices.windows.net
+teams.cloud.microsoft
+teams.microsoft.com
+keydelivery.mediaservices.windows.net
+streaming.mediaservices.windows.net
 mlccdn.blob.core.windows.net
-*.users.storage.live.com
+users.storage.live.com
 adl.windows.com
-*.secure.skypeassets.com
+secure.skypeassets.com
 mlccdnprod.azureedge.net
-*.skype.com
+skype.com
 compass-ssl.microsoft.com
